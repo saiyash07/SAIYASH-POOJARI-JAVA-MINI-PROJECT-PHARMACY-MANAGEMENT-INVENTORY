@@ -1,0 +1,4 @@
+*.class
+__MACOSX/
+.claude/
+sales.txt
